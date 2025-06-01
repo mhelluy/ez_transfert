@@ -1,6 +1,6 @@
 # 🚀 EzTransfert: Simple Local File Transfer Server
 
-EzTransfert is a lightweight, self-contained HTTP server written in Python, designed for easy file transfers between your phone and your computer on a local network. It allows you to both **upload files from your phone to your computer** and **download files from a shared directory** on your computer to your phone.
+EzTransfert is a lightweight, self-contained HTTP server written in Python, designed for easy file transfers between your phone and your computer on a local network (or more generally between two computers on the same local network). It allows you to both **upload files from your phone to your computer** and **download files from a shared directory** on your computer to your phone.
 
 ---
 
